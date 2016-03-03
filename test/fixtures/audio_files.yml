@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  url: MyString
+  iphone4positioning: MyText
+  iphone5positioning: MyText
+  iphone6positioning: MyText
+  iphone6pluspositioning: MyText
+
+two:
+  title: MyString
+  url: MyString
+  iphone4positioning: MyText
+  iphone5positioning: MyText
+  iphone6positioning: MyText
+  iphone6pluspositioning: MyText

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  backgroundColor: MyString
+  backButtonColor: MyString
+  statusBarStyle: MyString
+  backgroundImageURL: MyString
+  AudioButton: 
+
+two:
+  title: MyString
+  backgroundColor: MyString
+  backButtonColor: MyString
+  statusBarStyle: MyString
+  backgroundImageURL: MyString
+  AudioButton: 

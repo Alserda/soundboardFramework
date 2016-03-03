@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cornerRadius: MyString
+  backgroundColor: MyString
+  backgroundColorHighlighted: MyString
+  bottomBorderColor: MyString
+  fontFamily: MyString
+  fontStyle: MyString
+  fontSize: 
+  fontColor: MyString
+
+two:
+  cornerRadius: MyString
+  backgroundColor: MyString
+  backgroundColorHighlighted: MyString
+  bottomBorderColor: MyString
+  fontFamily: MyString
+  fontStyle: MyString
+  fontSize: 
+  fontColor: MyString
